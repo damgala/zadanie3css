@@ -31,7 +31,7 @@
     background-color: #fe0000;
 }
 
-#circle_red {
+#circle_pink {
     background-color: #ffc0cb;
 }
 
@@ -49,4 +49,28 @@
 
 #circle_violet {
     background-color: #81007f;
+}
+
+#square_yellow {
+    background-color: #ffff00;
+}
+
+#circle_green {
+    background-color: #008001;
+}
+
+#square_black {
+    background-color: #000000;
+}
+
+#circle_red {
+    background-color: #fe0000;
+}
+
+#square_darkyellow {
+    background-color: #faa41a;
+}
+
+#circle_blue {
+    background-color: #0000fe;
 }
